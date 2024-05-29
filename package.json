@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.6",
+    "@mui/material": "^5.15.6",
+    "@mui/x-date-pickers": "^7.0.0",
+    "axios": "^1.6.5",
+    "dayjs": "^1.11.10",
+    "file-saver": "^2.0.5",
+    "match-sorter": "^6.3.4",
+    "mui": "^0.0.1",
+    "next": "latest",
+    "prop-types": "^15.8.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-window": "^1.8.10",
+    "xlsx": "^0.18.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
